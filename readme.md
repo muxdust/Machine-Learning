@@ -12,3 +12,18 @@ Machine learning is a subset of artificial intelligence that enables computers t
 - **Supervised Learning**: Learning with labeled data (classification, regression)
 - **Unsupervised Learning**: Finding patterns in unlabeled data (clustering, dimensionality reduction)
 - **Reinforcement Learning**: Learning through interaction and feedback
+
+### Supervised Learning - Regression Projects
+
+#### Available Implementations
+- **Linear Regression** (`linear.ipynb`) - Basic linear relationship modeling
+- **Polynomial Regression** (`polynomial.ipynb`) - Non-linear relationship modeling
+- **Ridge Regression** (`ridge.ipynb`) - L2 regularization technique
+- **Lasso Regression** (`lasso.ipynb`) - L1 regularization with feature selection
+- **Elastic Net** (`elasticnet.ipynb`) - Combined L1 and L2 regularization
+- **Decision Tree Regression** (`desctree.ipynb`) - Tree-based regression model
+- **Random Forest Regression** (`randforest.ipynb`) - Ensemble of decision trees
+
+#### Dataset
+- `dataset.csv` - Training data for regression experiments
+- `requirements.txt` - Required Python packages for running the notebooks
