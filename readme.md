@@ -33,3 +33,17 @@ Machine learning is a subset of artificial intelligence that enables computers t
 
 - `dataset.csv` - Training data for regression experiments
 - `requirements.txt` - Required Python packages for running the notebooks
+
+### Supervised Learning - Classification Projects
+
+#### Available Implementations
+
+- **Decision Tree Classification** (`desctree.ipynb`) - Tree-based classification model
+- **Random Forest Classification** (`randforest.ipynb`) - Ensemble of decision trees for classification
+- **K-Nearest Neighbors** (`knn.ipynb`) - Distance-based classification model
+- **Naive Bayes** (`naive.ipynb`) - Probabilistic classification algorithm
+
+#### Dataset
+
+- `dataset.csv` - Training data for classification experiments
+- `requirements.txt` - Required Python packages for running the notebooks
